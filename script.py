@@ -1,1 +1,5 @@
-print("Olá, sou a Maria")
+#Criar uma lista 
+frutas= ['maçã, 'laranja','uva']
+
+#acessar elementos
+print[0]
